@@ -12,5 +12,5 @@ alongside ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=fo
 
 💬 You can send me a message on Discord (verdy#9169) as I'm mostly only active there.
 
-[![verdy's github stats](https://github-readme-stats.vercel.app/api?username=7verdy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7verdy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![verdy's github stats](https://github-readme-stats.vercel.app/api?username=7verdy&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7verdy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
